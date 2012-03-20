@@ -1,0 +1,14 @@
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplicationTest.dll
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplicationTest.pdb
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplication.exe
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplication.pdb
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\obj\Debug\SimpleApplicationTest.dll
+C:\Microsoft\Node\Projects\anode\repo\__apps\urig\mstestdriver1\example\SimpleApplication\SimpleApplicationTest\obj\Debug\SimpleApplicationTest.pdb
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplicationTest.dll
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplicationTest.pdb
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplication.exe
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\bin\Debug\SimpleApplication.pdb
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\obj\Debug\SimpleApplicationTest.dll
+C:\Microsoft\TFS_Private_Prototypes\NodeJS\rinuts-msTestDriver\rinuts-msTestDriver\example\SimpleApplication\SimpleApplicationTest\obj\Debug\SimpleApplicationTest.pdb
